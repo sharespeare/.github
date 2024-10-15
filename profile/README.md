@@ -1,7 +1,4 @@
-## Hi there 👋
 # Sharepeare
-
-## Overview
 
 A social media platform for unleashing your shakespeare.
 
