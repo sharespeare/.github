@@ -31,9 +31,12 @@ This is a comprehensive MERN Stack social media application that allows users to
 
 ## Installation
 
-1. Clone the repository
+1. Clone these repositories
 ```
-git clone https://github.com/RmnSoni/SocialMediaApp.git
+git clone https://github.com/sharespeare/sharespeare-frontend.git
+```
+```
+git clone https://github.com/sharespeare/sharespeare-backend.git
 ```
 
 2. Install backend dependencies
